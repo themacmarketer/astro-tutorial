@@ -1,0 +1,8 @@
+media:
+  input: public
+  output: /
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/pages
